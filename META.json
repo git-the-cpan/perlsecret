@@ -4,7 +4,7 @@
       "Philippe Bruhat (BooK) <book@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.008, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.016, CPAN::Meta::Converter version 2.133380",
    "license" : [
       "perl_5"
    ],
@@ -51,6 +51,18 @@
          "web" : "http://github.com/book/perlsecret"
       }
    },
-   "version" : "1.012"
+   "version" : "1.013",
+   "x_contributors" : [
+      "Aristotle Pagaltzis <pagaltzis@gmx.de>",
+      "Rafael Garcia-Suarez <rgs@consttype.org>",
+      "Toby Inkster <tobyink@cpan.org>",
+      "Olivier Mengué <dolmen@cpan.org>",
+      "Keith C. Ivey <keith@iveys.org>",
+      "Pau Amma <pauamma@gundo.com>",
+      "Ivan Bessarabov <ivan@bessarabov.ru>",
+      "Andy Armstrong <andy@hexten.net>",
+      "Ævar Arnfjörð Bjarmason <avarab@gmail.com>",
+      "Abigail <abigail@abigail.be>"
+   ]
 }
 
